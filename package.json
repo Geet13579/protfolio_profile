@@ -2,6 +2,7 @@
   "name": "geetanjalijangde",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Geet13579.github.io/portfolio",
   "dependencies": {
     "@emailjs/browser": "^3.12.1",
     "@emotion/react": "^11.11.3",
@@ -46,5 +47,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
