@@ -353,7 +353,7 @@ export const projects = [
     description:
       "A website maintained admin panel.Developed a flutter android app which has a function like provide tifin services online. Design single page of tifinco using mern stack link of webste",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "",
     tags: [
       "React Js",
       "MongoDb",
