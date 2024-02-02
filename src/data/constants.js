@@ -176,7 +176,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://sensible-computers.com/assets/img/sensible_new_logo.jpg",
-    role: "Vocation Training Certificate",
+    role: "Vocational Training Certificate",
     company: "Software Solution (Sensible Computer)",
     date: "20 August 2019 - 20 September 2019",
     desc: "I successfully completed a Vocation Training Certificate in collaboration with Software Solution (Sensible Computer) during the period from August 2023 to September 2023. This intensive training program equipped me with valuable skills and hands-on experience in web development technologies.",
@@ -309,7 +309,7 @@ export const projects = [
       "App Is sorting number when click and used various sorting algorithm",
     image:
       "https://firebasestorage.googleapis.com/v0/b/virtual-plating-393407.appspot.com/o/Screenshot%20(14).png?alt=media&token=dc8342bd-dbd2-42fa-af4e-820c75a50cf9",
-    tags: ["React js","bootsrap"],
+    tags: ["React js","bootstrap"],
     category: "android app",
     github: "https://github.com/Geet13579/Sorting-visualizer",
     webapp: "https://geet13579.github.io/Sorting-visualizer/",
