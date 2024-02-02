@@ -277,7 +277,7 @@ export const projects = [
     description:
       "A website booked online Appointment for body relax",
     image:
-      "",
+      "https://firebasestorage.googleapis.com/v0/b/virtual-plating-393407.appspot.com/o/Screenshot%20(10).png?alt=media&token=9a682a23-b8a5-43ab-bd89-1095b0bc87c1",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
     category: "web app",
     github: "",
@@ -290,7 +290,7 @@ export const projects = [
     description:
       "Designed and developed the Todo project, a project management app that helps maintained todo.",
     image:
-      "",
+      "https://firebasestorage.googleapis.com/v0/b/virtual-plating-393407.appspot.com/o/Screenshot%20(11).png?alt=media&token=3e766f25-a41c-4e50-a1ca-3f85329441b8",
     tags: [
       "Vue Js",
       "SqlLite",
@@ -308,7 +308,7 @@ export const projects = [
     description:
       "App Is sorting number when click and used various sorting algorithm",
     image:
-      "",
+      "https://firebasestorage.googleapis.com/v0/b/virtual-plating-393407.appspot.com/o/Screenshot%20(14).png?alt=media&token=dc8342bd-dbd2-42fa-af4e-820c75a50cf9",
     tags: ["React js","bootsrap"],
     category: "android app",
     github: "https://github.com/Geet13579/Sorting-visualizer",
