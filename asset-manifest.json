@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/protfolio_profile/static/css/main.c55bdca2.css",
+    "main.js": "/protfolio_profile/static/js/main.ef9f8d9d.js",
+    "static/js/787.61393f7d.chunk.js": "/protfolio_profile/static/js/787.61393f7d.chunk.js",
+    "static/media/geetanjali.JPG": "/protfolio_profile/static/media/geetanjali.d71aefb38de4101b6bc9.JPG",
+    "index.html": "/protfolio_profile/index.html",
+    "main.c55bdca2.css.map": "/protfolio_profile/static/css/main.c55bdca2.css.map",
+    "main.ef9f8d9d.js.map": "/protfolio_profile/static/js/main.ef9f8d9d.js.map",
+    "787.61393f7d.chunk.js.map": "/protfolio_profile/static/js/787.61393f7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c55bdca2.css",
+    "static/js/main.ef9f8d9d.js"
+  ]
+}
