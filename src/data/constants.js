@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Geet13579",
   resume:
-    "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
+    "https://drive.google.com/file/d/1o0tDSUR0PtviEcKfXH8BnFGLD7PXhR_s/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/geetanjali-jangde-9b36b1201/",
   twitter: "https://x.com/iGeetanjalii?t=5CF2_30W3Uq1ldLPGWgrmQ&s=15",
   insta: "https://www.instagram.com/igeetanjalii?igsh=ZGUzMzM3NWJiOQ==",
